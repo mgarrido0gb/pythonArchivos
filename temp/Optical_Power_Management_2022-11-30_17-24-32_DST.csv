@@ -1,0 +1,874 @@
+﻿"NE Name","Slot ID","Board Name","Port","Input Power(dBm)","Reference Input Power(dBm)","Input Power Reference Value Time","Input Power State","Reference Input Power Lower Threshold(dBm)","Reference Input Power Upper Threshold(dBm)","Input Power Lower Threshold(dBm)","Min. Value of Input Power Lower Threshold(dBm)","Max. Value of Input Power Lower Threshold(dBm)","Input Power Upper Threshold(dBm)","Min. Value of Input Power Upper Threshold(dBm)","Max. Value of Input Power Upper Threshold(dBm)","Max. Pump Output Power(dBm)","Min. Pump Output Power(dBm)","Output Power(dBm)","Reference Output Power(dBm)","Output Power Reference Value Time","Output Power State","Output Power Lower Threshold(dBm)","Output Power Upper Threshold(dBm)","Reference Output Power Lower Threshold(dBm)","Reference Output Power Upper Threshold(dBm)","Input Power Lower Threshold Default Value(dBm)","Input Power Upper Threshold Default Value(dBm)","CFP/LANE Input Power Lower Threshold Default Value(dBm)","CFP/LANE Input Power Upper Threshold Default Value(dBm)"
+TEMUCO-WDM-CR04C,Shelf0(subrack)-1,F2ELOM(STND),1(IN1/OUT1 A TEMUCO-WDM-CR04B MR8 S7 A4/D4 HACIA TRAIGUEN),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04C,Shelf0(subrack)-1,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04C,Shelf0(subrack)-1,F2ELOM(STND),3(RX1/TX1 PA PE RAN 8KM14 ANGOL-OSN 8800 T32 ELE2 TTX S20 RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04C,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04C,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-2,F3LDX,1(IN1/OUT1 A MR8 S6 A8/D8 HACIA LONCOCHE¨(AT 5dB)),"	-11.2",/,/,/,/,/,"	-18.0",-,-,1.0,-,-,-,-,1.0,/,/,/,"	-3.0",5.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-2,F3LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-2,F3LDX,3(IN3/OUT3),"	-60.0",/,/,/,/,/,"	-18.0",-,-,1.0,-,-,-,-,1.0,/,/,/,"	-3.0",5.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-2,F3LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-2,F3LDX,5(RX1/TX1 PB PE RAN 8KM14 PANGUIPULLI),"	-3.6",/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.4",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-2,F3LDX,6(RX2/TX2),"	-60.0",/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-2.6",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-5,B1DAP,1(IN_1),"	-26.5","	-27.1",2022-11-30 12:54:16 DST,Normal,"	-29.9","	-21.9","	-32.0","	-60.0",60.0,"	-2.0","	-60.0",60.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-5,B1DAP,2(PAOUT_1),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-10.9",/,/,/,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-5,B1DAP,3(BAIN_1),"	-24.0",/,/,/,/,/,"	-26.0","	-60.0",60.0,19.0,"	-60.0",60.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-5,B1DAP,4(OUT_1),-,-,-,-,-,-,-,-,-,-,-,-,-,-,1.8,/,/,/,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-5,B1DAP,6(VI_1),"	-17.0","	-17.7",2022-11-30 12:54:16 DST,Normal,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-5,B1DAP,8(IN_2),"	-14.4",/,/,/,/,/,"	-32.0","	-60.0",60.0,"	-2.0","	-60.0",60.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-5,B1DAP,9(PAOUT_2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,1.4,/,/,/,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-5,B1DAP,10(BAIN_2),"	-11.3",/,/,/,/,/,"	-26.0","	-60.0",60.0,19.0,"	-60.0",60.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-5,B1DAP,11(OUT_2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,10.0,/,/,/,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-5,B1DAP,13(VI_2),0.7,/,/,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-6,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-7,T1SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03B,Shelf0(subrack)-7,T1SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03B,Shelf0(subrack)-2,F3LDX,1(IN1/OUT1 A GORBEA-WDM-R03B MR8 S5 A4/D4 HACIA PITRUFQUEN),"	-9.2","	-9.2",2022-08-11 20:40:10,Normal,"	-12.2","	-4.2","	-16.0",-,-,"	-1.0",-,-,-,-,"	-0.3",/,/,/,"	-3.0",3.0,-,-,-,-,-,-
+GORBEA-WDM-R03B,Shelf0(subrack)-2,F3LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03B,Shelf0(subrack)-2,F3LDX,3(IN3/OUT3),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03B,Shelf0(subrack)-2,F3LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03B,Shelf0(subrack)-2,F3LDX,5(RX1/TX1 PB ATN PITRUFQUEN),"	-7.0",/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-2.9",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+GORBEA-WDM-R03B,Shelf0(subrack)-2,F3LDX,6(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03B,Shelf0(subrack)-7,T1SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03B,Shelf0(subrack)-7,T1SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-1,58NS4,1(IN/OUT (TO LONCOCHE)),/,/,/,/,/,/,"	-16.0","	-21.0","	-2.0","	-2.0","	-21.0","	-2.0",-,-,/,/,/,/,"	-6.0",0.0,-,-,/,/,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-2,55TTX,3(RX1/TX1 PE1-CORE-TEMUCO TE 0/12/0/6 a Lastarria),/,"	-7.1",2021-01-14 02:28:41 DST,/,"	-10.1","	-2.1","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,/,/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-2,55TTX,4(RX2/TX2 PB PE RAN VILLARRICA --- PE2 CORE TEMUCO TE 0/10/0/23),/,"	-5.5",2021-01-14 02:22:22 DST,/,"	-8.5","	-0.5","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,/,/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-2,55TTX,5(RX3/TX3 PB PE RAN PUCON --- PE2 CORE TEMUCO TE 0/10/0/7),/,"	-6.5",2021-01-14 01:50:11 DST,/,"	-10.0","	-2.0","	-12.6","	-16.6",0.5,"	-0.5","	-16.6",0.5,-,-,/,/,/,/,"	-9.2",1.5,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-2,55TTX,6(RX4/TX4 PEl-3G-TEMUCO TE 8/0/2 --- ATN 950 LONCOCHE),/,"	-7.6",2021-01-27 17:46:04 DST,/,"	-10.4","	-2.4","	-14.4","	-18.4",1.5,0.5,"	-18.4",1.5,-,-,/,/,/,/,"	-8.2",0.5,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-2,55TTX,7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-2,55TTX,8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-2,55TTX,9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-2,55TTX,10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-2,55TTX,11(RX9/TX9),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-2,55TTX,12(RX10/TX10),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-8,54TOA(STND),3(RX1/TX1),/,/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-8,54TOA(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-8,54TOA(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-8,54TOA(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-8,54TOA(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-8,54TOA(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-8,54TOA(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-8,54TOA(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-11,54TOA(STND),3(RX1/TX1 PLANO B PE2-CORE-TEMUCO Gi 0/0/1/9 a LAstarria),"	-6.1","	-5.8",2021-01-14 02:41:29 DST,Normal,"	-9.1","	-1.1","	-25.0","	-29.0","	-2.0","	-3.0","	-29.0","	-2.0",-,-,"	-6.3",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-11,54TOA(STND),4(RX2/TX2 ATN1-950-TEMUCO Gi 0/2/5),"	-4.7","	-6.5",2021-04-20 01:25:18,Normal,"	-9.5","	-1.5","	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,"	-5.9",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-11,54TOA(STND),5(RX3/TX3 PE2-CORE-TEMUCO Gi 0/0/1/10 PB PE-3G-LASTARREA),"	-60.0",/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,"	-6.3",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-11,54TOA(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-11,54TOA(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-11,54TOA(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-11,54TOA(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-11,54TOA(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-17,55TTX,3(RX1/TX1 PB PE2-CORE-TEMUCO TG 0/10/0/22 a Gorbea),/,"	-5.3",2021-01-14 03:02:36 DST,/,"	-8.3","	-0.3","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,/,/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-17,55TTX,4(RX2/TX2 PA PE RAN VILLARRICA --- PE1 CORE TEMUCO TG 0/12/0/9),/,"	-5.7",2021-01-14 02:04:57 DST,/,"	-8.7","	-0.7","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,/,/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-17,55TTX,5(RX3/TX3 PA PE RAN PUCON --- PE1 CORE TEMUCO TG 0/12/0/8),/,"	-6.0",2021-01-14 02:04:57 DST,/,"	-9.1","	-1.1","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,/,/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-17,55TTX,6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-17,55TTX,7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-17,55TTX,8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-17,55TTX,9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-17,55TTX,10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-17,55TTX,11(RX9/TX9),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-17,55TTX,12(RX10/TX10),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR06 ETN1,Shelf0(subrack)-18,58NS4,1(IN/OUT (TO LONCOCHE)),"	-10.0",/,/,/,/,/,"	-16.0","	-21.0","	-2.0","	-2.0","	-21.0","	-2.0",-,-,"	-2.5",/,/,/,"	-6.0",0.0,-,-,"	-17.0","	-2.0",-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-1,58NS4,1(IN/OUT (TO TEMUCO FJ)),"	-0.8",/,/,/,/,/,"	-16.0","	-21.0","	-2.0","	-2.0","	-21.0","	-2.0",-,-,"	-2.5",/,/,/,"	-6.0",0.0,-,-,"	-17.0","	-2.0",-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-2,55TTX,3(RX1/TX1 PA PE RAN LASTARRIA),"	-6.2","	-6.2",2022-11-15 14:20:30 DST,Normal,"	-9.2","	-1.2","	-12.6","	-16.6",0.5,"	-0.5","	-16.6",0.5,-,-,"	-3.3",/,/,/,"	-9.2",1.5,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-2,55TTX,4(RX2/TX2 PB PE RAN VILLARRICA),"	-6.2","	-6.2",2022-11-15 14:20:30 DST,Normal,"	-9.2","	-1.2","	-12.6","	-16.6",0.5,"	-0.5","	-16.6",0.5,-,-,"	-3.4",/,/,/,"	-9.2",1.5,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-2,55TTX,5(RX3/TX3 PB PE RAN PUCON),"	-7.7","	-7.7",2022-11-15 14:20:30 DST,Normal,"	-10.7","	-2.7","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.3",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-2,55TTX,6(RX4/TX4 ATN 1 950B LONCOCHE TE 0/5/0),"	-5.5","	-5.5",2022-11-15 14:20:30 DST,Normal,"	-8.5","	-0.5","	-14.4","	-18.4",1.5,0.5,"	-18.4",1.5,-,-,"	-1.7",/,/,/,"	-8.2",0.5,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-2,55TTX,7(RX5/TX5 PB PE RAN 8KM14 PANGUIPULLI A 1800 R03A ELOM S2 RX1/TX1),"	-7.5","	-7.5",2022-11-15 14:20:30 DST,Normal,"	-10.5","	-2.5","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.3",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-2,55TTX,8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-2,55TTX,9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-2,55TTX,10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-2,55TTX,11(RX9/TX9),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-2,55TTX,12(RX10/TX10),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-8,54TOA(STND),3(RX1/TX1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-8,54TOA(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-8,54TOA(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-8,54TOA(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-8,54TOA(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-8,54TOA(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-8,54TOA(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-8,54TOA(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),3(RX1/TX1 PB PE RAN LASTARRIA),"	-8.6",/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,"	-5.8",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),4(RX2/TX2 ATN 950 PITRUFQUEN),"	-6.4",/,/,/,/,/,"	-19.0","	-23.0","	-3.0","	-4.0","	-23.0","	-3.0",-,-,"	-5.5",/,/,/,"	-10.5","	-2.0",-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),5(RX3/TX3 RTN HW PB PE-3G-LASTARREA),"	-6.0",/,/,/,/,/,"	-19.0","	-23.0","	-3.0","	-4.0","	-23.0","	-3.0",-,-,"	-5.4",/,/,/,"	-10.5","	-2.0",-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-12,54TOA(STND),3(RX1/TX1 PB PE RAN PANGUIPULLI (NUEVO)-1800 LONCO-WDM-CR01 S2 P1),/,/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-12,54TOA(STND),4(RX2/TX2),/,/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-12,54TOA(STND),5(RX3/TX3),/,/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-12,54TOA(STND),6(RX4/TX4),/,/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-12,54TOA(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-12,54TOA(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-12,54TOA(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-12,54TOA(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-15,55TTX,3(RX1/TX1),/,/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,/,/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-15,55TTX,4(RX2/TX2),/,/,/,/,/,/,"	-12.6","	-16.6",0.5,"	-0.5","	-16.6",0.5,-,-,/,/,/,/,"	-9.2",1.5,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-15,55TTX,5(RX3/TX3),/,/,/,/,/,/,"	-12.6","	-16.6",0.5,"	-0.5","	-16.6",0.5,-,-,/,/,/,/,"	-9.2",1.5,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-15,55TTX,6(RX4/TX4),/,/,/,/,/,/,"	-12.6","	-16.6",0.5,"	-0.5","	-16.6",0.5,-,-,/,/,/,/,"	-9.2",1.5,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-15,55TTX,7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-15,55TTX,8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-15,55TTX,9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-15,55TTX,10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-15,55TTX,11(RX9/TX9),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-15,55TTX,12(RX10/TX10),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-16,58NS4,1(IN/OUT),"	-9.4",/,/,/,/,/,"	-16.0","	-21.0","	-2.0","	-2.0","	-21.0","	-2.0",-,-,"	-2.9",/,/,/,"	-6.0",0.0,-,-,"	-17.0","	-2.0",-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,3(RX1/TX1 PB PE RAN GORBEA),/,/,/,/,/,/,"	-12.6","	-16.6",0.5,"	-0.5","	-16.6",0.5,-,-,/,/,/,/,"	-9.2",1.5,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,4(RX2/TX2 PA PE RAN VILLARRICA),/,/,/,/,/,/,"	-12.6","	-16.6",0.5,"	-0.5","	-16.6",0.5,-,-,/,/,/,/,"	-9.2",1.5,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,5(RX3/TX3 PA PE RAN PUCON),/,/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,/,/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,11(RX9/TX9),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,12(RX10/TX10),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR06 ETN1,Shelf0(Master Shelf)-18,58NS4,1(IN/OUT (TO TEMUCO FJ)),"	-60.0",/,/,/,/,/,"	-16.0","	-21.0","	-2.0","	-2.0","	-21.0","	-2.0",-,-,"	-2.5",/,/,/,"	-6.0",0.0,-,-,"	-17.0","	-2.0",-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-1,F2ELOM(STND),1(IN1/OUT1 A S7 MR8 A1/D1 HACIA LONCOCHE),"	-60.0",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-1,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-1,F2ELOM(STND),3(RX1/TX1 PA PE RAN LASTARRIA A 8800 LONCOCHE-WDM-CR06 T16 S1 P1),"	-6.7",/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.5",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),1(IN1/OUT1 A MR8 S7 A2/D2 HACIA LASTARRIA),"	-60.0",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),3(RX1/TX1 PB PE RAN PANGUI (NUEVO) A LONCO-WDM-CR06 ETN1 S12 P2),"	-7.1",/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,"	-5.8",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-7,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,1.0,/,/,/,-,-,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-CR01,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-1,F2ELOM(STND),1(IN1/OUT1 A S7 MR8 A1/D1 HACIA LONCOCHE),"	-6.6",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-1,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-1,F2ELOM(STND),3(RX1/TX1 PA-PE-RAN-8KM14 LASTARRIA 0/1/0 a Temuco),"	-5.9",/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.6",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),1(IN1/OUT1 A MR8 S7 A2/D2 HACIA LONCOCHE),"	-5.8",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.8,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),3(RX1/TX1 PB PE RAN PANGUIPULLI (NUEVO) A TN 10.254.35.179 S8 P2),"	-6.3",/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,"	-6.2",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-2,F2ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-7,F1EMR8,9(IN/OUT RACK 4 ODF 1 FO 6 y 7 HACIA LONCOCHE),-,-,-,-,-,-,-,-,-,-,-,-,-,-,1.1,/,/,/,-,-,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LASTARRIA-WDM-CR01,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),3(RX1/TX1 PB PE RAN PANGUIPULLI (NUEVO)),"	-6.5",/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,"	-6.1",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),4(RX2/TX2),/,/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),5(RX3/TX3),/,/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),6(RX4/TX4),/,/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),7(RX5/TX5),/,/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),8(RX6/TX6),/,/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),9(RX7/TX7),/,/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-11,54TOA(STND),10(RX8/TX8),/,/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,3(RX1/TX1),/,/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,/,/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,4(RX2/TX2),/,/,/,/,/,/,"	-12.6","	-16.6",0.5,"	-0.5","	-16.6",0.5,-,-,/,/,/,/,"	-9.2",1.5,-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,5(RX3/TX3),/,/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,/,/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,6(RX4/TX4),/,/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,/,/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,11(RX9/TX9),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-17,55TTX,12(RX10/TX10),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-CR06 ETN1,Shelf0(Master Shelf)-18,58NS4,1(IN/OUT),"	-13.5",/,/,/,/,/,"	-16.0","	-21.0","	-2.0","	-2.0","	-21.0","	-2.0",-,-,"	-2.4",/,/,/,"	-6.0",0.0,-,-,"	-17.0","	-2.0",-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-5,B1DAP,1(IN_1),"	-17.3",/,/,/,/,/,"	-32.0","	-60.0",60.0,"	-2.0","	-60.0",60.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-5,B1DAP,2(PAOUT_1),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-1.7",/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-5,B1DAP,3(BAIN_1),"	-14.9",/,/,/,/,/,"	-26.0","	-60.0",60.0,19.0,"	-60.0",60.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-5,B1DAP,4(OUT_1),-,-,-,-,-,-,-,-,-,-,-,-,-,-,7.6,/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-5,B1DAP,6(VI_1),"	-0.7",/,/,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-5,B1DAP,8(IN_2),/,/,/,/,/,/,/,"	-60.0",60.0,/,"	-60.0",60.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-5,B1DAP,9(PAOUT_2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-5,B1DAP,10(BAIN_2),/,/,/,/,/,/,/,"	-60.0",60.0,/,"	-60.0",60.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-5,B1DAP,11(OUT_2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-5,B1DAP,13(VI_2),/,/,/,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-7,B1SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-7,B1SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+ANFIONM-WDM-R03A,Shelf0(subrack)-8,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),1(IN1/OUT1 FROM/TO VILLARRICA MOVISTAR),"	-10.6",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.7,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),2(IN2/OUT2 FROM/TO VILLARRICA ENTEL),"	-6.5",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.6,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),3(RX1/TX1 PB1 PE RAN VILLARRICA_NUEVA),"	-8.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.1",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),4(RX2/TX2 PB2 PE RAN VILLARRICA_NUEVA),"	-7.4",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),5(RX3/TX3 ),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),6(RX4/TX4 PB1 PE RAN PUCON_NUEVA),"	-11.2",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-1.8",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),7(RX5/TX5 ),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.1",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),8(RX6/TX6),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.1",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),9(RX7/TX7),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),10(RX8/TX8 STM-16 PROTECCION a 1600G Protection TMX S05 P1),"	-6.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-1.9",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-3,F1LDX(STND),1(IN1/OUT1 A S7 MR8 A4/D4 HACIA VILLARRICA),"	-7.6","	-6.7",2022-09-05 18:12:31 DST,Normal,-,-,"	-16.0",-,-,"	-2.0",-,-,-,-,0.6,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-3,F1LDX(STND),2(IN2/OUT2),/,/,/,/,-,-,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-3,F1LDX(STND),3(IN3/OUT3 A S7 MR8 A5/D5 HACIA VILLARRICA),"	-10.6","	-9.7",2022-09-05 18:12:31 DST,Normal,-,-,"	-16.0",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-3,F1LDX(STND),4(IN4/OUT4),/,/,/,/,-,-,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-3,F1LDX(STND),5(RX1/TX1 PB PE RAN VILLARRICA 10G),"	-6.0","	-5.9",2022-09-05 18:12:31 DST,Normal,-,-,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.5",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-3,F1LDX(STND),6(RX2/TX2 PB PE RAN PUCON 10G),"	-6.1","	-6.2",2022-09-05 18:12:31 DST,Normal,-,-,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.5",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-5,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-6,F2OBU,1(IN),"	-21.7","	-20.5",2021-10-20 08:45:36 DST,Normal,"	-23.5","	-15.5","	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,2.1,/,/,/,-,-,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-7,F1EMR8,9(IN/OUT TO VILLARRICA OUT FO ODF MOVISTAR FO3),-,-,-,-,-,-,-,-,-,-,-,-,-,-,3.0,/,/,/,-,-,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03B,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),1(IN1/OUT1 To LONCOCHE MOVISTAR),"	-9.3",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),2(IN2/OUT2 To LONCOCHE ENTEL),"	-6.7",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),3(RX1/TX1 PB1 PE-RAN VILLARRICA PE RAN GE 3/1/11),"	-9.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.4",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),4(RX2/TX2 PB2 PE-RAN VILLARRICA PE RAN GE 3/1/10),"	-8.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.1",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),5(RX3/TX3),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),6(RX4/TX4 PB1 PE RAN PUCON),"	-7.2",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),7(RX5/TX5),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.2",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),8(RX6/TX6),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-1.7",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),9(RX7/TX7),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-1.9",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),10(RX8/TX8 STM16 PROTECCION a VILLARRICA 10 S10 P1),"	-6.1",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-2,F2ELOM(STND),1(IN1/OUT1 A S7 MR8 A4/D4 HACIA LONCOCHE),"	-5.0",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-2,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-2,F2ELOM(STND),3(RX1/TX1 PB PE RAN VILLARRICA 10G TE 0/2/0),"	-6.4",/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.5",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-5,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-6,F2OBU,1(IN),"	-22.0","	-22.0",2021-10-20 08:46:33 DST,Normal,"	-25.0","	-17.0","	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,1.8,/,/,/,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-7,F1EMR8,9(IN/OUT TO LONCOCHE ODF MOVISTAR FO2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,3.1,/,/,/,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VILLARRICA-WDM-R03B,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VILLARRICA-WDM-R03D,Shelf0(subrack)-5,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03D,Shelf0(subrack)-6,F2OBU,1(IN),"	-23.2",/,/,/,/,/,"	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03D,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,1.1,/,/,/,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03D,Shelf0(subrack)-7,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-7.3",/,/,/,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03D,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VILLARRICA-WDM-R03D,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),1(IN1/OUT1 FROM/TO VILLARRICA ENTEL),"	-8.3","	-6.3",2022-09-05 17:38:28 DST,Normal,"	-9.3","	-1.3","	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),2(IN2/OUT2),"	-60.0",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),3(RX1/TX1 PA1 PE RAN VILLARRICA),"	-60.0","	-6.5",2022-09-05 17:38:28 DST,Critical Alert,"	-9.5","	-1.5","	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),4(RX2/TX2 PA2 PE RAN VILLARRICA),"	-60.0","	-5.5",2022-09-05 17:38:28 DST,Critical Alert,"	-8.5","	-0.5","	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.1",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),5(RX3/TX3 PA3 PE RAN PUCON_Nueva),"	-5.7","	-5.7",2022-09-05 17:38:28 DST,Normal,"	-8.7","	-0.7","	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.1",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),6(RX4/TX4 PA1 PE RAN PUCON_En trafico),"	-5.9","	-5.9",2022-09-05 17:38:28 DST,Normal,"	-8.9","	-0.9","	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-1.9",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),7(RX5/TX5 PA4 PE RAN PUCON_Nueva),"	-7.2","	-7.1",2022-09-05 17:38:28 DST,Normal,"	-10.1","	-2.1","	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-1.9",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),8(RX6/TX6 PA2 PE RAN PUCON Crusado a Loncoche N/S W TP1 Slot 3_En ),"	-4.8","	-4.8",2022-09-05 17:38:28 DST,Normal,"	-7.8",0.2,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),9(RX7/TX7),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-1.8",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),10(RX8/TX8 STM-16 WORKING_No se usara),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-2,F2ELOM(STND),1(IN1/OUT1 A MR8 S7 A8/D8 HACIA PANGUIPULLI),3.7,/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-2,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-2,F2ELOM(STND),3(RX1/TX1 PB1 PE RAN 8KM14 PANGUIPULLI A 8800 CR06 ETN 1 TTA S2 P5),"	-6.7","	-6.7",2022-11-15 14:19:55 DST,Normal,"	-9.7","	-1.7","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.7",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-3,F1LDX(STND),1(IN1/OUT1 A S7 MR8 A4/D4 HACIA VILLARRICA),"	-6.1","	-3.8",2022-09-05 17:40:11 DST,Warning Alert,-,-,"	-16.0",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-3,F1LDX(STND),2(IN2/OUT2),/,/,/,/,-,-,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-3,F1LDX(STND),3(IN3/OUT3 A S7 MR8 A5/D5 HACIA VILLARRICA),"	-7.7","	-5.3",2022-09-05 17:40:11 DST,Warning Alert,-,-,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-3,F1LDX(STND),4(IN4/OUT4),/,/,/,/,-,-,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-3,F1LDX(STND),5(RX1/TX1 PA PE RAN VILLARRICA 10G),"	-7.2","	-7.2",2022-09-05 17:40:11 DST,Normal,-,-,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-2.5",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-3,F1LDX(STND),6(RX2/TX2 PA PE RAN PUCON 10G),"	-7.6","	-7.5",2022-09-05 17:40:11 DST,Normal,-,-,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-2.9",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-5,F1EMR8,9(IN/OUT A MR8 S7 MO/MI),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-6,F2OBU,1(IN),"	-15.8","	-14.1",2022-09-05 17:48:44 DST,Normal,"	-17.1","	-9.1","	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,7.5,/,/,/,-,-,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-7,F1EMR8,9(IN/OUT TX A VILLARRICA R1 ODF 8 FO 01),-,-,-,-,-,-,-,-,-,-,-,-,-,-,4.2,/,/,/,-,-,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03A,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PUCON-WDM-R03B,Shelf0(subrack)-2,F2ELOM(STND),1(IN1/OUT1 A S7 A5/D5 HACIA VILLARRICA),"	-3.5",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+PUCON-WDM-R03B,Shelf0(subrack)-2,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PUCON-WDM-R03B,Shelf0(subrack)-2,F2ELOM(STND),3(RX1/TX1 PB PE RAN PUCON 10G TE 0/2/0),"	-6.1",/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.4",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+PUCON-WDM-R03B,Shelf0(subrack)-5,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+PUCON-WDM-R03B,Shelf0(subrack)-6,F2OBU,1(IN),"	-25.3","	-24.8",2020-12-17 00:59:30 DST,Normal,"	-27.8","	-19.8","	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+PUCON-WDM-R03B,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,0.0,/,/,/,-,-,-,-,-,-,-,-
+PUCON-WDM-R03B,Shelf0(subrack)-7,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-1.3",/,/,/,-,-,-,-,-,-,-,-
+PUCON-WDM-R03B,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PUCON-WDM-R03B,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VILLARRICA-WDM-R03C,Shelf0(subrack)-5,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03C,Shelf0(subrack)-6,F2OBU,1(IN),"	-15.8","	-19.2",2022-09-06 14:22:00 DST,Warning Alert,"	-22.2","	-14.2","	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03C,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,7.7,/,/,/,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03C,Shelf0(subrack)-7,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-0.1",/,/,/,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03C,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VILLARRICA-WDM-R03C,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),1(IN1/OUT1 TO LONCOCHE ENTEL),"	-7.6","	-7.6",2020-12-17 00:54:45 DST,Normal,"	-10.6","	-2.6","	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),2(IN2/OUT2 TO PUCON GIGARED),"	-8.1","	-6.9",2020-12-17 00:54:45 DST,Normal,"	-9.9","	-1.9","	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),3(RX1/TX1 PA1 PE RAN VILLARRICA GE 3/0/11),"	-60.0","	-6.4",2022-09-05 18:48:24 DST,Critical Alert,"	-9.4","	-1.4","	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),4(RX2/TX2 PA2 PE RAN VILLARRICA GE 3/0/10),"	-60.0","	-5.5",2022-09-05 18:48:24 DST,Critical Alert,"	-8.5","	-0.5","	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),5(RX3/TX3),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.8",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),6(RX4/TX4),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),7(RX5/TX5),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.4",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),8(RX6/TX6),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.1",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),9(RX7/TX7 S1-9303-VILLARRICA Gi 1/0/11),"	-5.5","	-5.5",2022-09-05 18:48:24 DST,Normal,"	-8.5","	-0.5","	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-1.9",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),10(RX8/TX8 STM-16 WORKING a Pucon),"	-8.2","	-7.8",2022-09-05 18:48:24 DST,Normal,"	-10.8","	-2.8","	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-3,F2ELOM(STND),1(IN1/OUT1 A S7 A4/D4 HACIA LONCOCHE),"	-7.1","	-7.2",2020-12-17 00:55:09 DST,Normal,"	-10.2","	-2.2","	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-3,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-3,F2ELOM(STND),3(RX1/TX1 PA PE RAN VILLARRICA 10G TE 0/1/0),"	-5.7","	-5.7",2020-12-17 00:55:09 DST,Normal,"	-8.7","	-0.7","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.3",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-5,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-6,F2OBU,1(IN),"	-16.0","	-19.0",2022-09-05 18:51:29 DST,Warning Alert,"	-22.0","	-14.0","	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,7.1,/,/,/,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-7,F1EMR8,9(IN/OUT FROM/TO LONCOCHE ENTEL),-,-,-,-,-,-,-,-,-,-,-,-,-,-,3.8,/,/,/,-,-,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VILLARRICA-WDM-R03A,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),1(IN1/OUT1),"	-9.3","	-7.5",2020-12-17 00:53:57 DST,Normal,"	-10.5","	-2.5","	-16.0",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),2(IN2/OUT2),"	-60.0",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.6,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),3(RX1/TX1 PLANO A1 PE RAN PUCON GE 1/2/0),"	-6.5",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),4(RX2/TX2 PLANO A2 PE RAN PUCON GE 1/5/0),"	-16.3",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-1.9",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),5(RX3/TX3 PLANO A3 PE RAN PUCON GE 1/5/1),"	-7.4",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.2",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),6(RX4/TX4 PLANO A4 PE RAN PUCON GE 1/5/2),"	-6.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),7(RX5/TX5 S1-53-PUCON PA GE 0/1/3),"	-5.6",/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,"	-5.8",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-1,F2ELOM(STND),10(RX8/TX8 STM16 PUCON 10),"	-5.9",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.7",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-2,F2ELOM(STND),1(IN1/OUT1 A S7 MR8 A5/D5 HACIA VILLARRICA),"	-7.6","	-7.0",2020-12-17 00:53:32 DST,Normal,"	-10.0","	-2.0","	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-2,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-2,F2ELOM(STND),3(RX1/TX1 PA PE RAN PUCON (10G) TE 0/1/0),"	-6.0","	-6.0",2020-12-17 00:53:32 DST,Normal,"	-9.0","	-1.0","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.6",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-5,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-6,F2OBU,1(IN),"	-21.2","	-22.2",2020-12-17 00:52:52 DST,Normal,"	-25.2","	-17.2","	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,3.0,/,/,/,-,-,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-7,F1EMR8,9(IN/OUT A VILLARRICA VIA FO MOVISTAR),-,-,-,-,-,-,-,-,-,-,-,-,-,-,1.3,/,/,/,-,-,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PUCON-WDM-R03A,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03B,Shelf0(subrack)-2,F3LDX,1(IN1/OUT1 A PITRUFQUEN-WDM-R03 MR8 S7 A4/D4 HACIA GORBEA),"	-8.3","	-8.3",2022-08-11 20:40:46,Normal,"	-11.3","	-3.3","	-16.0",-,-,"	-1.0",-,-,-,-,"	-1.8",/,/,/,"	-3.0",3.0,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03B,Shelf0(subrack)-2,F3LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03B,Shelf0(subrack)-2,F3LDX,3(IN3/OUT3),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03B,Shelf0(subrack)-2,F3LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03B,Shelf0(subrack)-2,F3LDX,5(RX1/TX1 ACSR-950D-A1-GOR-ZCO-PITRUFQUEN-AR420 Gi0/3/0),"	-6.6","	-6.1",2022-08-30 11:16:26,Normal,"	-9.1","	-1.1","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.1",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03B,Shelf0(subrack)-2,F3LDX,6(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03B,Shelf0(subrack)-7,B1SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03B,Shelf0(subrack)-7,B1SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-1,F2LDX,1(IN1/OUT1 A S7 MR8 A2/D2 HACIA LAUTARO PCS),/,"	-8.3",2021-01-14 03:33:37 DST,/,"	-11.3","	-3.3",/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-1,F2LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-1,F2LDX,3(IN3/OUT3 A S7 MR8 A3/D3 HACIA VICTORIA),/,"	-8.5",2021-01-14 03:33:37 DST,/,"	-11.5","	-3.5",/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-1,F2LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-1,F2LDX,5(RX1/TX1 PB PE RAN LAUTARO PCS --- PE2-CORE-TEMUCO TE 0/10/0/21),/,"	-6.3",2021-01-14 03:33:37 DST,/,"	-9.3","	-1.3",/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-1,F2LDX,6(RX2/TX2 PB PE RAN VICTORIA --- PE2-CORE TEMUCO 0/10/0/12),/,"	-5.2",2021-01-14 03:33:37 DST,/,"	-8.2","	-0.2",/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),2(IN2/OUT2 A S7 MR8 A1/D1 HACIA TRAIGUEN),"	-10.8","	-10.8",2022-04-05 00:27:35,Normal,"	-13.8","	-5.8","	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),3(RX1/TX1 PB1 PE RAN TRAIGUEN -- PE2 CORE TEMUCO GE 0/0/0/9),"	-8.6","	-8.6",2022-04-05 00:27:35,Normal,"	-11.6","	-3.6","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-5.5",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),4(RX2/TX2 PB2 PE RAN TRAIGUEN -- PE2 CORE TEMUCO GE 0/0/0/10),"	-7.5","	-7.5",2022-04-05 00:27:35,Normal,"	-10.5","	-2.5","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-5.5",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),5(RX3/TX3 PB3 PE RAN TRAIGUEN -- PE2 CORE TEMUCO GE 0/0/0/11),"	-7.2","	-7.3",2022-04-05 00:27:35,Normal,"	-10.3","	-2.3","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.0",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),6(RX4/TX4 PB4 PE RAN TRAIGUEN -- PE2 CORE TEMUCO GE 0/0/0/12),"	-6.8","	-6.8",2022-04-05 00:27:35,Normal,"	-9.8","	-1.8","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-5.8",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),7(RX5/TX5 PB1 PERAN 8KM14 TRAIGUEN PE2 CORE TEMUCO Gi 0/1/11),"	-7.1","	-7.1",2022-04-05 00:27:35,Normal,"	-10.1","	-2.1","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.4",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),8(RX6/TX6 PB2 PERAN 8KM14 TRAIGUEN PE2 CORE TEMUCO Gi 0/1/12),"	-7.9","	-8.0",2022-04-05 00:27:35,Normal,"	-11.0","	-3.0","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.4",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),9(RX7/TX7 PB3 PERAN 8KM14 TRAIGUEN PE2 CORE TEMUCO Gi 0/1/13),"	-8.3","	-8.3",2022-04-05 00:27:35,Normal,"	-11.3","	-3.3","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.1",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),10(RX8/TX8 S1-9306-TEMUCO GE6/0/45 -- PRINCIPAL S1-53-TRAIGUEN),"	-5.2","	-5.2",2021-06-24 00:29:16,Normal,"	-8.2","	-0.2","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.1",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-3,F3LDX,1(IN1/OUT1 A MR8 S7 A6/D6 HACIA TRAIGUEN),"	-9.9",/,/,/,/,/,"	-16.0",-,-,"	-1.0",-,-,-,-,0.1,/,/,/,"	-3.0",3.0,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-3,F3LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-3,F3LDX,3(IN3/OUT3 A MR8 S7 A7/D7 HACIA TRAIGUEN),"	-9.4",/,/,/,/,/,"	-16.0",-,-,"	-1.0",-,-,-,-,"	-1.6",/,/,/,"	-3.0",3.0,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-3,F3LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-3,F3LDX,5(RX1/TX1 PB1 PE RAN 8K14 TRAIGUEN),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-3,F3LDX,6(RX2/TX2 PB2 PE RAN 8K14 TRAIGUEN),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-4,F2OBU,1(IN),/,/,/,/,/,/,/,/,/,/,/,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-4,F2OBU,2(OUT RACK 5  ODF 5 FO18 TX HACIA TRAIGUEN GTD FOOTELCO_010103001),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-6,F2OBU,1(IN),"	-20.3","	-20.9",2021-02-02 14:15:50 DST,Normal,"	-23.9","	-15.9","	-32.0","	-60.0",60.0,"	-2.0","	-60.0",60.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,3.2,/,/,/,-,-,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-7,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04B,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-1,F2LDX,1(IN1/OUT1 A S7 MR8 A2/D2 HACIA LAUTARO PCS),"	-6.2","	-6.5",2021-01-14 12:55:38 DST,Normal,"	-9.7","	-1.7","	-16.0",-,-,"	-2.0",-,-,-,-,0.6,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-1,F2LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-1,F2LDX,3(IN3/OUT3  A S7 MR8 A3/D3 HACIA LAUTARO PCS),"	-4.8","	-6.5",2021-01-14 12:55:38 DST,Normal,"	-7.2",0.8,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-1,F2LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-1,F2LDX,5(RX1/TX1 PA PE RAN LAUTARO PCS --- PE1-CORE-TEMUCO  TE 0/12/0/4),"	-6.3","	-6.3",2021-01-14 12:55:38 DST,Normal,"	-9.3","	-1.3","	-12.6","	-16.6",0.5,"	-0.5","	-16.6",0.5,-,-,"	-3.4",/,/,/,"	-9.2",1.5,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-1,F2LDX,6(RX2/TX2 PA PE RAN VICTORIA --- PE1-CORE-TEMUCO  TE 0/12/0/5),"	-6.1","	-6.0",2021-01-14 12:55:38 DST,Normal,"	-8.6","	-0.6","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.5",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),2(IN2/OUT2 A S7 MR8 A1/D1 HACIA VICTORIA VIA LAUTARO PCS),"	-7.3",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),3(RX1/TX1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),7(RX5/TX5 PA3 PE RAN TRAIGUEN --- PE CORE TEMUCO GE 0/0/1/11),"	-7.4",/,/,/,/,/,"	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-5.7",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),8(RX6/TX6 PA4 PE RAN TRAIGUEN --- PE CORE TEMUCO GE 0/0/1/12),"	-7.8",/,/,/,/,/,"	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-5.1",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),9(RX7/TX7 PA2 PE RAN TRAIGUEN --- PE CORE TEMUCO GE 0/0/1/10),"	-6.1",/,/,/,/,/,"	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.2",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),10(RX8/TX8 PA1 PE RAN TRAIGUEN --- PE CORE TEMUCO GE 0/0/1/9),"	-7.1",/,/,/,/,/,"	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.0",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-3,F3LDX,1(IN1/OUT1 A MR8 S7 A6/D6 HACIA TRAIGUEN),"	-5.3",/,/,/,/,/,"	-16.0",-,-,"	-1.0",-,-,-,-,"	-0.9",/,/,/,"	-3.0",3.0,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-3,F3LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-3,F3LDX,3(IN3/OUT3 A MR8 S7 A7/D7 HACIA TRAIGUEN),"	-5.2",/,/,/,/,/,"	-16.0",-,-,"	-1.0",-,-,-,-,0.2,/,/,/,"	-3.0",3.0,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-3,F3LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-3,F3LDX,5(RX1/TX1 PA1 PE RAN 8KM14 TRAIGUEN PE1-CORE-TEMUCO GE 0/12/0/10),"	-6.4",/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.7",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-3,F3LDX,6(RX2/TX2 PA2 PE RAN 8KM14 TRAIGUEN PE1-CORE-TEMUCO GE 0/12/0/11),"	-7.5",/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.1",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-6,F2OBU,1(IN),/,/,/,/,/,/,/,/,/,/,/,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-7,F1EMR8,9(IN/OUT  RACK 5  ODF 1 FO 39 TX HACIA LAUTARO PCS),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-CR04A,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-1,F2LDX,1(IN1 A S7 MR8 D2 / OUT1 A TRAIGUEN-WDM-CR04A S7 MR8 A2),"	-9.2","	-8.9",2021-01-21 11:07:57 DST,Normal,"	-11.9","	-3.9","	-16.0",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-1,F2LDX,3(IN3  A TRAIGUEN-WDM-CR04A S7 MR8 D2 / OUT3 A S7 MR8 A2),"	-7.3","	-9.2",2021-01-21 11:07:57 DST,Normal,"	-12.2","	-4.2","	-16.0",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),1(IN1/OUT1 A MR8 S7 A1/D1 HACIA TEMUCO),"	-7.0","	-8.3",2021-01-21 11:07:40 DST,Normal,"	-11.3","	-3.3","	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),3(RX1/TX1 PB1 PE RAN TRAIGUEN GE 2/0/4),"	-7.6","	-7.6",2022-04-04 16:27:12,Normal,"	-10.6","	-2.6","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.0",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),4(RX2/TX2 PB2 PE RAN TRAIGUEN GE 2/0/5),"	-7.6","	-7.6",2022-04-04 16:27:12,Normal,"	-10.6","	-2.6","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-5.8",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),5(RX3/TX3 PB3 PE RAN TRAIGUEN GE 2/0/6),"	-6.7","	-6.7",2022-04-04 16:27:12,Normal,"	-9.7","	-1.7","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.0",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),6(RX4/TX4 PB4 PE RAN TRAIGUEN GE 2/0/7),"	-6.2","	-6.2",2022-04-04 16:27:12,Normal,"	-9.2","	-1.2","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.0",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),7(RX5/TX5 PB1 PE RAN 8KM14 TRAIGUEN GI 0/3/0),"	-7.0","	-6.9",2022-04-04 16:27:12,Normal,"	-9.9","	-1.9","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.6",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),8(RX6/TX6 PB2 PE RAN 8KM14 TRAIGUEN GI 0/3/1),"	-6.9","	-7.1",2022-04-04 16:27:12,Normal,"	-10.1","	-2.1","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.2",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),9(RX7/TX7 PB3 PE RAN 8KM14 TRAIGUEN GI 0/3/2),"	-6.4","	-6.3",2022-04-04 16:27:12,Normal,"	-9.3","	-1.3","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.1",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-2,F2ELOM(STND),10(RX8/TX8 PRINCIPAL S1-53-TRAIGUEN GE 1/0/3),"	-8.0","	-8.0",2022-04-04 16:27:12,Normal,"	-11.0","	-3.0","	-20.0","	-24.0","	-2.0","	-3.0","	-24.0","	-2.0",-,-,"	-6.4",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-3,F3LDX,1(IN1/OUT1 A MR8 S7 A6/D6 HACIA TEMUCO),"	-7.8","	-7.9",2022-01-19 16:18:02 DST,Normal,"	-10.9","	-2.9","	-16.0",-,-,"	-1.0",-,-,-,-,"	-2.2",/,/,/,"	-3.0",3.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-3,F3LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-3,F3LDX,3(IN3/OUT3 A MR8 S7 A7/D7 HACIA TEMUCO),"	-9.9","	-9.9",2022-01-19 16:18:02 DST,Normal,"	-12.9","	-4.9","	-16.0",-,-,"	-1.0",-,-,-,-,"	-0.7",/,/,/,"	-3.0",3.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-3,F3LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-3,F3LDX,5(RX1/TX1 PB1 PE RAN 8KM14 TRAIGUEN TE 0/2/0),"	-6.1","	-6.0",2022-01-19 16:18:02 DST,Normal,"	-9.0","	-1.0","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.7",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-3,F3LDX,6(RX2/TX2 PB2 PE RAN 8KM14 TRAIGUEN TE 0/2/1),"	-6.1","	-6.1",2022-01-19 16:18:02 DST,Normal,"	-9.1","	-1.1","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.7",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-4,F2OBU,1(IN),"	-5.2","	-5.2",2021-02-01 14:54:26 DST,Normal,"	-8.2","	-0.2","	-32.0",/,/,"	-2.0",/,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-4,F2OBU,2(OUT TX HACIA TEMUCO GTD FOOTELCO_010103001),-,-,-,-,-,-,-,-,-,-,-,-,-,-,18.0,/,/,/,-,-,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-6,F2OBU,1(IN),"	-20.9","	-23.5",2021-02-02 14:16:31 DST,Warning Alert,"	-26.5","	-18.5","	-32.0","	-60.0",60.0,"	-2.0","	-60.0",60.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,3.0,/,/,/,-,-,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-7,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,5.0,/,/,/,-,-,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04B,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-1,F2LDX,1(IN1/OUT1 A S7 MR8 A2/D2 HACIA TEMUCO),"	-6.5","	-7.4",2021-01-14 13:17:10 DST,Normal,"	-10.1","	-2.1","	-16.0",-,-,"	-2.0",-,-,-,-,0.6,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-1,F2LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-1,F2LDX,3(IN3/OUT3),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-1,F2LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-1,F2LDX,5(RX1/TX1 PA PE RAN LAUTARO PCS TE 0/1/0),"	-5.4","	-5.5",2020-12-18 11:29:43 DST,Normal,"	-8.5","	-0.5","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.1",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-1,F2LDX,6(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-3,F3LDX,1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-3,F3LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-3,F3LDX,3(IN3/OUT3),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-3,F3LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-3,F3LDX,5(RX1/TX1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-3,F3LDX,6(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-6,F2OBU,1(IN),/,/,/,/,/,/,/,/,/,/,/,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-7,F1EMR8,9(IN/OUT RACK 5  ODF 1 FO15 TX HACIA TEMUCO),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04A,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-1,F2LDX,1(IN1/OUT1  A S7 MR8 A2/D2 HACIA VICTORIA),/,"	-5.8",2021-02-01 16:30:08 DST,/,"	-8.8","	-0.8",/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-1,F2LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-1,F2LDX,3(IN3/OUT3),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-1,F2LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-1,F2LDX,5(RX1/TX1 PB PE RAN LAUTARO PCS TE 0/2/0),/,"	-5.9",2021-02-01 16:30:08 DST,/,"	-8.9","	-0.9",/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-1,F2LDX,6(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-3,F3LDX,1(IN1/OUT1 A MR8 S7 A5/D5 HACIA VICTORIA),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-3,F3LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-3,F3LDX,3(IN3/OUT3),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-3,F3LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-3,F3LDX,5(RX1/TX1 PA1 PE RAN 8KM14 LAUTARO),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-3,F3LDX,6(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-6,F2OBU,1(IN),"	-60.0","	-19.3",2021-02-01 16:30:30 DST,Critical Alert,"	-22.3","	-14.3","	-32.0","	-60.0",60.0,"	-2.0","	-60.0",60.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-60.0",/,/,/,-,-,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-7,F1EMR8,9(IN/OUT RACK 1B ODF 3 FO16 TX HACIA VICTORIA),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LAUTAROPCS-WDM-CR04B,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VICTORIA-WDM-CR04B,Shelf0(subrack)-1,F2LDX,1(IN1/OUT1 A S7 MR8 A3/D3 HACIA TEMUCO VIA LAUTARO PCS),"	-5.0","	-7.7",2021-02-01 16:36:43 DST,Warning Alert,"	-10.7","	-2.7","	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+VICTORIA-WDM-CR04B,Shelf0(subrack)-1,F2LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VICTORIA-WDM-CR04B,Shelf0(subrack)-1,F2LDX,3(IN3/OUT3),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VICTORIA-WDM-CR04B,Shelf0(subrack)-1,F2LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VICTORIA-WDM-CR04B,Shelf0(subrack)-1,F2LDX,5(RX1/TX1 PA PE RAN VICTORIA TE 0/1/0),"	-4.6","	-4.8",2021-02-01 16:36:43 DST,Normal,"	-7.8",0.2,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.4",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+VICTORIA-WDM-CR04B,Shelf0(subrack)-1,F2LDX,6(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VICTORIA-WDM-CR04B,Shelf0(subrack)-6,F2OBU,1(IN),"	-60.0","	-22.1",2021-02-01 16:36:02 DST,Critical Alert,"	-25.1","	-17.1","	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+VICTORIA-WDM-CR04B,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-60.0",/,/,/,-,-,-,-,-,-,-,-
+VICTORIA-WDM-CR04B,Shelf0(subrack)-7,F1EMR8,9(IN/OUT RACK 1 ODF 8 FO15 TX HACIA LAUTARO PCS),-,-,-,-,-,-,-,-,-,-,-,-,-,-,1.5,/,/,/,-,-,-,-,-,-,-,-
+VICTORIA-WDM-CR04B,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VICTORIA-WDM-CR04B,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04C,Shelf0(subrack)-1,F2LDX,1(IN1 A MR8 S7 D4 / OUT1 A TRAIGUEN-WDM-CR04B MR8 S7 A4),"	-6.9","	-8.7",2022-01-19 01:04:31 DST,Normal,"	-11.7","	-3.7","	-16.0",-,-,"	-2.0",-,-,-,-,0.6,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04C,Shelf0(subrack)-1,F2LDX,3(IN3 A TRAIGUEN-WDM-CR04B MR8 S7 D4 / OUT3 A MR8 S7 A4),"	-60.0","	-8.0",2022-01-19 01:04:31 DST,Critical Alert,"	-11.0","	-3.0","	-16.0",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04C,Shelf0(subrack)-6,F2OBU,1(IN),"	-27.3",/,/,/,/,/,"	-32.0","	-60.0",60.0,"	-2.0","	-60.0",60.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04C,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-1.1",/,/,/,-,-,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04C,Shelf0(subrack)-7,F1EMR8,9(IN/OUT RACK 2 ODF 2 F34 TX HACIA LOS SAUCES),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-0.5",/,/,/,-,-,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04C,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04C,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04C,Shelf0(subrack)-1,F2LDX,1(IN1 A LOSSAUCES-WDM-CR04A MR8 S7 D4 / OUT1 A MR8 S7 A4),"	-8.2",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04C,Shelf0(subrack)-1,F2LDX,3(IN3 A MR8 S7 D4 / OUT3 A LOSSAUCES-WDM-CR04A MR8 S7 A4),"	-7.6",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.6,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04C,Shelf0(subrack)-6,F2OBU,1(IN),"	-23.0",/,/,/,/,/,"	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04C,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,1.7,/,/,/,-,-,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04C,Shelf0(subrack)-7,F1EMR8,9(IN/OUT RACK 1  ODF 1 F47 TX HACIA TRAIGUEN),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-1.7",/,/,/,-,-,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04C,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04C,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-1,ELOM(STND),1(IN1/OUT1 A MR8 S7 A1/D1 HACIA TRAIGUEN),"	-10.3","	-8.2",2021-01-14 14:26:20 DST,Warning Alert,"	-11.2","	-3.2","	-16.0",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",2.9,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-1,ELOM(STND),2(IN2/OUT2 A VICTORIA-WDM-CR04B MR8 S7 A1/D1 HACIA TEMUCO),"	-4.8","	-8.2",2021-01-14 14:26:20 DST,Warning Alert,"	-11.2","	-3.2","	-16.0",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",2.9,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-1,ELOM(STND),3(RX1/TX1 To: OSN 2500 VICTORIA 09 SLOT 11 P1),"	-13.0","	-13.0",2021-01-14 14:26:20 DST,Normal,"	-16.0","	-8.0","	-28.0","	-32.0","	-18.0","	-10.0","	-18.0","	-8.0",-,-,0.0,/,/,/,"	-3.0",4.0,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-1,ELOM(STND),4(RX2/TX2 To: OSN 2500 VICTORIA 09 SLOT 08 P1),"	-10.1","	-10.1",2021-01-14 14:26:20 DST,Normal,"	-13.1","	-5.1","	-22.0","	-26.0","	-12.0","	-4.0","	-12.0","	-2.0",-,-,"	-1.9",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-1,ELOM(STND),5(RX3/TX3 To: OSN 2500 VICTORIA 09 SLOT 08 P2),"	-10.0","	-10.0",2021-01-14 14:26:20 DST,Normal,"	-13.0","	-5.0","	-22.0","	-26.0","	-12.0","	-4.0","	-12.0","	-2.0",-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-1,ELOM(STND),6(RX4/TX4 To: OSN 2500 VICTORIA 09 SLOT 08 P3),"	-10.0","	-9.9",2021-01-14 14:26:20 DST,Normal,"	-12.9","	-4.9","	-22.0","	-26.0","	-12.0","	-4.0","	-12.0","	-2.0",-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-1,ELOM(STND),7(RX5/TX5 To: MHL3000 VICTORIA SLOT 17 P7 PA3 PE-RAN TRAIGUEN LIBE),/,"	-7.0",2021-01-14 14:26:20 DST,/,"	-10.0","	-2.0","	-22.0","	-26.0","	-12.0","	-4.0","	-12.0","	-2.0",-,-,/,/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-1,ELOM(STND),8(RX6/TX6 To: MHL3000 VICTORIA SLOT 17 P8 PA4 PE-RAN TRAIGUEN LIBE),/,"	-7.3",2021-01-14 14:26:20 DST,/,"	-10.3","	-2.3","	-19.0","	-23.0","	-10.0","	-3.0","	-10.0","	-1.0",-,-,/,/,/,/,"	-9.0","	-3.0",-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-1,ELOM(STND),9(RX7/TX7 To: MHL3000 VICTORIA SLOT 17 P5 PA2 PE-RAN TRAIGUEN LIBE),/,"	-8.5",2021-01-14 14:26:20 DST,/,"	-11.5","	-3.5","	-22.0","	-26.0","	-12.0","	-4.0","	-12.0","	-2.0",-,-,/,/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-1,ELOM(STND),10(RX8/TX8 To: MHL3000 VICTORIA SLOT 20 P4 PA1 PE-RAN TRAIGUEN LIBE),/,"	-9.2",2021-01-14 14:26:20 DST,/,"	-12.2","	-4.2","	-19.0","	-23.0","	-10.0","	-3.0","	-10.0","	-1.0",-,-,/,/,/,/,"	-9.0","	-3.0",-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-3,F1LDX,1(IN1/OUT1 A S7 MR8 A3/D3  HACIA TRAIGUEN),"	-7.7","	-5.6",2021-01-14 14:26:50 DST,Warning Alert,"	-8.6","	-0.6","	-16.0",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",2.9,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-3,F1LDX,3(IN3/OUT3),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-3,F1LDX,5(RX1/TX1 PB PE RAN VICTORIA TE 0/2/0),"	-5.5","	-5.4",2021-01-14 14:27:08 DST,Normal,"	-8.6","	-0.6","	-11.0","	-15.0","	-4.2",0.5,"	-4.1",2.5,-,-,"	-3.5",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-3,F1LDX,6(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-6,F1OBU,1(IN1 To: DCM 40KM PTA OUT /// PTA IN DCM RACK 1 ODF MOVISTAR FO4),"	-24.2",/,/,/,/,/,"	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-6,F1OBU,2(OUT1: To: IN 7-MR8),-,-,-,-,-,-,-,-,-,-,-,-,-,-,1.6,/,/,/,-,-,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-8,SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VICTORIA-WDM-CR04A,Shelf0()-8,SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-1,ELOM(STND),1(IN1/OUT1 A S7 MR8 A1/D1 HACIA VICTORIA),"	-9.4",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.7,/,/,/,"	-2.0",2.9,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-1,ELOM(STND),3(RX1/TX1 To: OSN 2500 TRAIGUEN 09 slot 9 P1),"	-13.3",/,/,/,/,/,"	-28.0","	-32.0","	-18.0","	-10.0","	-18.0","	-8.0",-,-,0.2,/,/,/,"	-3.0",4.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-1,ELOM(STND),4(RX2/TX2 To: RTN620 Traiguen MHW01  Slot 8 P1),"	-8.6",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-5.7",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-1,ELOM(STND),5(RX3/TX3 To: RTN620 Traiguen MHW01 Slot 8 P1),"	-10.3",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-5.4",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-1,ELOM(STND),6(RX4/TX4 To: RTN620 Traiguen Primario 3+1 Slot 4 P2),"	-10.7",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-6.0",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-1,ELOM(STND),7(RX5/TX5 To: Plano A3 PE RAN Traiguen GE 2/1/4),"	-5.4",/,/,/,/,/,"	-19.0","	-23.0","	-10.0","	-3.0","	-10.0","	-1.0",-,-,"	-6.3",/,/,/,"	-9.0","	-3.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-1,ELOM(STND),8(RX6/TX6 To: Plano A4 PE RAN Traiguen GE 2/1/5),"	-7.2",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-5.5",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-1,ELOM(STND),9(RX7/TX7 To: Plano A2 PE RAN Traiguen GE 2/1/3),"	-6.2",/,/,/,/,/,"	-22.0","	-26.0","	-12.0","	-4.0","	-12.0","	-2.0",-,-,"	-2.2",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-1,ELOM(STND),10(RX8/TX8 To: Plano A1 PE RAN Traiguen GE 2/1/0),"	-9.7",/,/,/,/,/,"	-22.0","	-26.0","	-12.0","	-4.0","	-12.0","	-2.0",-,-,"	-2.1",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-2,F1LDX(STND),1(IN1/OUT1 A MR8 S7 A6/D6 HACIA VICTORIA),"	-60.0","	-8.0",2022-01-19 13:07:33 DST,Critical Alert,-,-,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",2.9,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-2,F1LDX(STND),2(IN2/OUT2),/,/,/,/,-,-,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-2,F1LDX(STND),3(IN3/OUT3 A MR8 S7 A7/D7 HACIA VICTORIA),"	-60.0","	-6.5",2022-01-19 13:08:56 DST,Critical Alert,-,-,"	-16.0",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",2.9,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-2,F1LDX(STND),4(IN4/OUT4),/,/,/,/,-,-,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-2,F1LDX(STND),5(RX1/TX1 PA1 PE RAN 8KM14 TRAIGUEN TE 0/1/0),"	-6.2","	-6.5",2022-01-19 15:47:59 DST,Normal,-,-,"	-11.0","	-17.4","	-5.4",0.5,"	-5.3",2.5,-,-,"	-3.7",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-2,F1LDX(STND),6(RX2/TX2 PA2 PE RAN 8KM14 TRAIGUEN TE 0/1/1),"	-6.0","	-6.2",2022-01-19 15:53:12 DST,Normal,-,-,"	-11.0","	-17.4","	-5.4",0.5,"	-5.3",2.5,-,-,"	-2.8",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-3,F1LDX,1(IN1/OUT1 A TRAIGUEN-WDM-CR04B S7 MR8 A3/D3 HACIA TEMUCO),"	-10.6","	-9.0",2021-02-01 16:43:53 DST,Normal,"	-12.0","	-4.0","	-16.0",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",2.9,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-3,F1LDX,3(IN3/OUT3 A S7 MR8 A3/D3 HACIA VICTORIA),"	-7.1","	-6.5",2021-02-01 16:43:53 DST,Normal,"	-9.5","	-1.5","	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",2.9,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-3,F1LDX,5(RX1/TX1 CRUZADA A RX2/TX2 REGEN PB E RAN VICTORIA),"	-6.1","	-6.1",2021-02-01 16:43:53 DST,Normal,"	-9.1","	-1.1","	-11.0","	-15.0","	-4.2",0.5,"	-4.1",2.5,-,-,"	-3.4",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-3,F1LDX,6(RX2/TX2  CRUZADA A RX1/TX1 REGEN PB E RAN VICTORIA),"	-6.6","	-6.5",2021-02-01 16:43:53 DST,Normal,"	-9.5","	-1.5","	-14.4","	-18.4","	-6.4","	-0.5","	-6.3",1.5,-,-,"	-2.9",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-6,F1OBU,1(IN1 To: DCM 40KM PTA OUT /// PTA IN DCM RACK 4 ODF MOVISTAR F03),"	-23.2","	-22.9",2021-02-01 16:44:09 DST,Normal,"	-25.9","	-17.9","	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-6,F1OBU,2(OUT1 To: IN 7-MR8),-,-,-,-,-,-,-,-,-,-,-,-,-,-,2.1,/,/,/,-,-,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-8,SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TRAIGUEN-WDM-CR04A,Shelf0()-8,SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),1(IN1/OUT1),"	-6.5",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04A,Shelf0(subrack)-2,F2ELOM(STND),3(RX1/TX1 A LOSSAUCES-WDM-R02C ELOM S2 RX1/TX1 -- PE RAN LOS ALAMO),"	-6.1",/,/,/,/,/,"	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-3.6",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04A,Shelf0(subrack)-6,F2OBU,1(IN),"	-20.9",/,/,/,/,/,"	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04A,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,2.8,/,/,/,-,-,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04A,Shelf0(subrack)-7,F1EMR8,9(IN/OUT RACK 3 ODF 1 F07 TX HACIA ANGOL),-,-,-,-,-,-,-,-,-,-,-,-,-,-,1.9,/,/,/,-,-,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04A,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LOSSAUCES-WDM-CR04A,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+ANGOL-WDM-CR04A,Shelf0(subrack)-1,F2LDX,1(IN1/OUT1 A MR8 S7 A4/D4 HACIA LOS SAUCES ),"	-8.5","	-7.3",2021-01-28 11:35:48 DST,Normal,"	-10.3","	-2.3","	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+ANGOL-WDM-CR04A,Shelf0(subrack)-1,F2LDX,2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+ANGOL-WDM-CR04A,Shelf0(subrack)-1,F2LDX,3(IN3/OUT3 A MR8 S7 A1/D1 HACIA LOS SAUCES),"	-7.3",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+ANGOL-WDM-CR04A,Shelf0(subrack)-1,F2LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+ANGOL-WDM-CR04A,Shelf0(subrack)-1,F2LDX,5(RX1/TX1 PA PE RAN ANGOL TE 0/1/0),"	-5.2","	-5.2",2021-01-28 11:35:48 DST,Normal,"	-8.2","	-0.2","	-14.4","	-18.4",0.5,"	-0.5","	-18.4",0.5,-,-,"	-2.6",/,/,/,"	-7.0",0.0,-,-,-,-,-,-
+ANGOL-WDM-CR04A,Shelf0(subrack)-1,F2LDX,6(RX2/TX2 PB PE RAN LOS ALAMOS INSTALACION),"	-5.7","	-5.2",2021-06-16 13:40:03,Normal,"	-8.2","	-0.2","	-17.0","	-21.0",0.0,"	-1.0","	-21.0",0.0,-,-,"	-2.5",/,/,/,"	-6.0",1.5,-,-,-,-,-,-
+ANGOL-WDM-CR04A,Shelf0(subrack)-6,F2OBU,1(IN),"	-20.0",/,/,/,/,/,"	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANGOL-WDM-CR04A,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,3.8,/,/,/,-,-,-,-,-,-,-,-
+ANGOL-WDM-CR04A,Shelf0(subrack)-7,F1EMR8,9(IN/OUT RACK 4 ODF 1 F03 TX HACIA LOS SAUCES),-,-,-,-,-,-,-,-,-,-,-,-,-,-,1.8,/,/,/,-,-,-,-,-,-,-,-
+ANGOL-WDM-CR04A,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+ANGOL-WDM-CR04A,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-1,ELOM(STND),1(IN1/OUT1 To S5-MR8 A1/D1 (To Gorbea)),"	-13.8",/,/,/,/,/,"	-15.8",-,-,"	-2.0",-,-,-,-,0.6,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-1,ELOM(STND),2(IN2/OUT2 To S7-MR8 A1/D1 (To Lanco)),"	-9.7",/,/,/,/,/,"	-15.8",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-1,ELOM(STND),3(RX1/TX1 OSN2500 LONCOCHE 05 to Lanco),/,/,/,/,/,/,"	-27.0","	-31.0","	-17.5","	-10.0","	-17.5","	-8.0",-,-,/,/,/,/,"	-3.0",4.0,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-1,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-1,ELOM(STND),5(RX3/TX3 ATN 950 PITRUFQUEN),"	-7.6",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-5.6",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-1,ELOM(STND),6(RX4/TX4 OPR24829 ATN PICHOY PLANO B),"	-8.2",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-6.1",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-1,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-1,ELOM(STND),8(RX6/TX6 OPR 25563 ATN LANCO Plano B),"	-9.5",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-5.6",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-1,ELOM(STND),9(RX7/TX7 OPR 21504 Uplink  ATN1-950-LONCOCHE Plano B),"	-10.4",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-6.2",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-1,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-2,ELOM(STND),1(IN1/OUT1 To S5-MR8 A2/D2 (To Gorbea)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-2,ELOM(STND),2(IN2/OUT2 To S7-MR7 A2/D2 (To Lanco)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-2,ELOM(STND),3(RX1/TX1 OSN2500 LONCOCHE 05 To Gorbea),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-2,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-2,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-2,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-2,ELOM(STND),7(RX5/TX5 OPR 20549 ATN 950B PITRUFQUEN P B),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-2,ELOM(STND),8(RX6/TX6 OPR17332 S1-53 Pitrufquen Plano B),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-2,ELOM(STND),9(RX7/TX7 OPR16170 S1-53 GORBEA PLANO B),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-2,ELOM(STND),10(RX8/TX8 Plano B PE RAN Gorbea (To Loncoche P N/S TP1 S3-P2)),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-4,ELOM(STND),1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-4,ELOM(STND),3(RX1/TX1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-6,F1OBU,1(IN),/,/,/,/,/,/,/,-,-,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-6,F1OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-8,SCC,1(RM1/TM1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LONCOCHE-WDM-R03,Shelf0()-8,SCC,2(RM2/TM2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-1,ELOM(STND),1(IN1/OUT1 To S5-MR8 A1/D1 (To Pitrufquen)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-1,ELOM(STND),2(IN2/OUT2 To S7-MR8 A1/D1 (To Loncoche)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-1,ELOM(STND),3(RX1/TX1 OSN1500 GORBEA 05 To Pitruf),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-1,ELOM(STND),4(RX2/TX2 OPR21986 ICALMA-PCS PLANO A  (sin sfp)),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-1,ELOM(STND),5(RX3/TX3 PE RAN LONQUIMAY PA (a GE1/9/1 TN a RUCAPILLAN) -LIBRE)),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-1,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-1,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-1,ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-1,ELOM(STND),9(RX7/TX7 OPR16170 S1-53 GORBEA PLANO A),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-1,ELOM(STND),10(RX8/TX8 Plano A PEX-RAN GORBEA),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-2,ELOM(STND),1(IN1/OUT1 To S5-MR8 A2/D2 (To Pitrufquen)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-2,ELOM(STND),2(IN2/OUT2 To S7-MR8 A2/D2 (To Loncoche)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-2,ELOM(STND),3(RX1/TX1 OSN1500 GORBEA To Loncoche),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-2,ELOM(STND),4(RX2/TX2 OPR21986 ICALMA-PCS PLANO B (SIN SFP)),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-2,ELOM(STND),5(RX3/TX3 PE RAN LONQUIMAY PB),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-2,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-2,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-2,ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-2,ELOM(STND),9(RX7/TX7 OPR16170 S1-53 GORBEA PLANO B),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-2,ELOM(STND),10(RX8/TX8 Prueba Plano B PEX-RAN GORBEA),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-3,ELOM(STND),1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-3,ELOM(STND),3(RX1/TX1 PA PE-RAN-8KM14-GORBEA TG 0/1/0 a Temuco),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-4,ELOM(STND),1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-4,ELOM(STND),3(RX1/TX1 PLANO B PE-RAN-8KM14-GORBEA  TG 0/2/0  a Temuco),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-6,F1OBU,1(IN),/,/,/,/,/,/,/,-,-,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-6,F1OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-8,SCC,1(RM1/TM1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+GORBEA-WDM-R03,Shelf0()-8,SCC,2(RM2/TM2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-1,ELOM(STND),1(IN1/OUT1 To S5-MR8 A1/D1 (To Freire)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-1,ELOM(STND),2(IN2/OUT2 To S7-MR8 A1/D1 (To Gorbea)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-1,ELOM(STND),3(RX1/TX1 OSN1500 PITRUFQUEN 05),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-1,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-1,ELOM(STND),5(RX3/TX3 PE RAN LONQUIMAY PA- MiniLink 6692 G:1-10-7 a Rucapillan),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-1,ELOM(STND),6(RX4/TX4 ATN-1-950-PITRUFQUEN Gi 0/2/5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-1,ELOM(STND),7(RX5/TX5 OPR 20549 ATN 950B P A),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-1,ELOM(STND),8(RX6/TX6 OPR17332 S1-53 Pitrufquen Plano A),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-1,ELOM(STND),9(RX7/TX7 OPR 21504 Uplink  ATN1-950-LONCOCHE Plano B),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-1,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-2,ELOM(STND),1(IN1/OUT1 To S5-MR8 A2/D2 (To Freire)),"	-9.1",/,/,/,/,/,"	-15.8",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-2,ELOM(STND),2(IN2/OUT2 To S7-MR8 A2/D2 (To Gorbea)),"	-9.8",/,/,/,/,/,"	-15.8",-,-,"	-2.0",-,-,-,-,0.4,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-2,ELOM(STND),3(RX1/TX1 OSN1500 PITRUFQUEN),/,/,/,/,/,/,"	-27.0","	-31.0","	-17.5","	-10.0","	-17.5","	-8.0",-,-,/,/,/,/,"	-3.0",4.0,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-2,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-2,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-2,ELOM(STND),6(RX4/TX4 ATN-1-950-PITRYFQUEN Gi 0/1/6),"	-5.7",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-6.3",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-2,ELOM(STND),7(RX5/TX5 OPR 20549 ATN 950B P B),/,/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-2,ELOM(STND),8(RX6/TX6 OPR17332 S1-53 Pitrufquen Plano A),"	-8.4",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-5.4",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-2,ELOM(STND),9(RX7/TX7 OPR 21504 Uplink  ATN1-950-LONCOCHE Plano B),"	-7.5",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-5.4",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-2,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-3,F1LDX,1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-3,F1LDX,3(IN3/OUT3),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-3,F1LDX,5(RX1/TX1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-3,F1LDX,6(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-8,SCC,1(RM1/TM1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PITRUFQUEN-WDM-R03,Shelf0()-8,SCC,2(RM2/TM2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-1,ELOM(STND),1(IN1/OUT1 To S5-MR8 A1/D1 (To Quepe)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-1,ELOM(STND),2(IN2/OUT2 To S7-MR8 A1/D1 (To Pitrufquen)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-1,ELOM(STND),3(RX1/TX1 OSN1500 FREIRE 05),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-1,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-1,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-1,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-1,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-1,ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-1,ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-1,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-2,ELOM(STND),1(IN1/OUT1 To S5-MR8 A2/D2 (To Quepe)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-2,ELOM(STND),2(IN2/OUT2 To S7-MR8 A2/D2 (To Pitrufquen)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-2,ELOM(STND),3(RX1/TX1 OSN1500 FREIRE 05),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-2,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-2,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-2,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-2,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-2,ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-2,ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-2,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-3,F1LDX,1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-3,F1LDX,3(IN3/OUT3),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-3,F1LDX,5(RX1/TX1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-3,F1LDX,6(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-8,SCC,1(RM1/TM1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+FREIRE-WDM-R03,Shelf0()-8,SCC,2(RM2/TM2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-1,ELOM(STND),1(IN1/OUT1 To S5-MR8 A1/D1 (To P. las Casas)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-1,ELOM(STND),2(IN2/OUT2 To S7-MR8 A1/D1 (To Freire)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-1,ELOM(STND),3(RX1/TX1 OSN1500 QUEPE 05),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-1,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-1,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-1,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-1,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-1,ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-1,ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-1,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-2,ELOM(STND),1(IN1/OUT1 To S5-MR8 A2/D2 (To P. Las Casas)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-2,ELOM(STND),2(IN2/OUT2 To S7-MR8 A2/D2 (To Freire)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-2,ELOM(STND),3(RX1/TX1 OSN1500 QUEPE 05),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-2,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-2,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-2,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-2,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-2,ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-2,ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-2,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-3,F1LDX,1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-3,F1LDX,3(IN3/OUT3),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-3,F1LDX,4(IN4/OUT4),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-3,F1LDX,5(RX1/TX1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-3,F1LDX,6(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-8,SCC,1(RM1/TM1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+QUEPE-WDM-R03,Shelf0()-8,SCC,2(RM2/TM2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-1,ELOM(STND),1(IN1/OUT1 To S5-MR8 A1/D1 (To Temuco)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-1,ELOM(STND),2(IN2/OUT2 To S7-MR8 A1/D1 (To Quepe)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-1,ELOM(STND),3(RX1/TX1 OSN1500 PLASCASAS 05),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-1,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-1,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-1,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-1,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-1,ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-1,ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-1,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-2,ELOM(STND),1(IN1/OUT1 To S5-MR8 A2/D2 (To Temuco)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-2,ELOM(STND),2(IN2/OUT2 To S7-MR8 A2/D2 (To Quepe)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-2,ELOM(STND),3(RX1/TX1 OSN1500 PLASCASAS 05),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-2,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-2,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-2,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-2,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-2,ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-2,ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-2,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-3,F1LDX,1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-3,F1LDX,3(IN3/OUT3),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-3,F1LDX,5(RX1/TX1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-3,F1LDX,6(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-8,SCC,1(RM1/TM1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PLASCASAS-WDM-R03,Shelf0()-8,SCC,2(RM2/TM2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-1,ELOM(STND),1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-1,ELOM(STND),2(IN2/OUT2 To S7-MR8 A1/D1 (P. LAS CASAS)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-1,ELOM(STND),3(RX1/TX1 OSN2500 TEMUCO 05),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-1,ELOM(STND),4(RX2/TX2 OPR21986 ICALMA-PCS PLANO A (SIN SFP)),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-1,ELOM(STND),5(RX3/TX3 PLANO A PE LONQUIMAY - P1 PCS TEMUCO GE 2/8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-1,ELOM(STND),6(RX4/TX4 (SIN SFP)),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-1,ELOM(STND),7(RX5/TX5 OPR 20594 ATN1-950 Plano A),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-1,ELOM(STND),8(RX6/TX6 OPR17332 S1-53 Pitrufquen Plano A),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-1,ELOM(STND),9(RX7/TX7 OPR16170 S1-53 GORBEA PLANO A),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-1,ELOM(STND),10(RX8/TX8 Plano A PEX-RAN GORBEA),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-2,ELOM(STND),1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-2,ELOM(STND),2(IN2/OUT2 To S7-MR8 A2/D2 (P. LAS CASAS)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-2,ELOM(STND),3(RX1/TX1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-2,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-2,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-2,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-2,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-2,ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-2,ELOM(STND),9(RX7/TX7 OPR 21504 Uplink  ATN1-950-LONCOCHE Plano B),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-2,ELOM(STND),10(RX8/TX8 Prueba),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-3,ELOM(STND),1(IN1/OUT1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-3,ELOM(STND),2(IN2/OUT2 A OSN 8800 TMCO TRIBUTARIO TTX S20 RX/TX 8),"	-8.1",/,/,/,/,/,"	-14.4",-,-,"	-0.5",-,-,-,-,"	-2.6",/,/,/,"	-9.2",1.5,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-3,ELOM(STND),3(RX1/TX1 PE RAN ANGOL PLANO B2 PE2 CORE TEMUCO GE 0/0/1/2),"	-7.7",/,/,/,/,/,"	-18.0","	-22.0","	-8.5","	-1.0","	-8.5",1.0,-,-,"	-2.1",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-3,ELOM(STND),4(RX2/TX2 PE RAN ANGOL PLANO B3 PE2 CORE TEMUCO GE 0/0/1/3),"	-8.3",/,/,/,/,/,"	-18.0","	-22.0","	-8.5","	-1.0","	-8.5",1.0,-,-,"	-1.9",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-3,ELOM(STND),5(RX3/TX3 PE RAN ANGOL PLANO B4 PE2 CORE TEMUCO GE 0/0/1/4),"	-6.9",/,/,/,/,/,"	-18.0","	-22.0","	-8.5","	-1.0","	-8.5",1.0,-,-,"	-2.1",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-3,ELOM(STND),6(RX4/TX4 PE RAN ANGOL PLANO B5 PE2 CORE TEMUCO GE 0/0/1/5),"	-6.2",/,/,/,/,/,"	-18.0","	-22.0","	-8.5","	-1.0","	-8.5",1.0,-,-,"	-1.9",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-3,ELOM(STND),7(RX5/TX5 PE RAN ANGOL PLANO B6 PE2 CORE TEMUCO GE 0/0/1/6),"	-6.7",/,/,/,/,/,"	-18.0","	-22.0","	-8.5","	-1.0","	-8.5",1.0,-,-,"	-2.1",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-3,ELOM(STND),8(RX6/TX6 PE RAN TRAIGUEN PLANO A2 PE1 CORE TEMUCO GE 0/0/1/10),/,/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-3,ELOM(STND),9(RX7/TX7 PE RAN TRAIGUEN PLANO A3 PE1 CORE TEMUCO GE 0/0/1/11),/,/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-3,ELOM(STND),10(RX8/TX8 PE RAN TRAIGUEN PLANO A4 PE1 CORE TEMUCO GE 0/0/1/12),/,/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-4,ELOM(STND),1(IN1/OUT1 A MR8 S7 A3/D3 HACIA PLASCASAS),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-4,ELOM(STND),3(RX1/TX1 PA PE1-CORE-TEMUCO TG 0/12/0/7  a Gorbea),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-8,SCC,1(RM1/TM1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+TEMUCO-WDM-R03,Shelf0()-8,SCC,2(RM2/TM2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-1,ELOM(STND),1(IN1/OUT1 To S5-MR8 A1/D1 (To Loncoche)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-1,ELOM(STND),2(IN2/OUT2 T0 S7-MR8 A1/D1 (To Pichoy)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-1,ELOM(STND),3(RX1/TX1 OSN2500 Lanco 05 to Loncoche),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-1,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-1,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-1,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-1,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-1,ELOM(STND),8(RX6/TX6 OPR 25563 ATN LANCO Plano B),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-1,ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-1,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-2,ELOM(STND),1(IN1/OUT1 To S5-MR8 A2/D2 (to Loncoche)),"	-7.8",/,/,/,/,/,"	-15.8",-,-,"	-2.0",-,-,-,-,0.7,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-2,ELOM(STND),2(IN2/OUT2 To S7-MR8 A2/D2 (to Pichoy)),"	-9.0",/,/,/,/,/,"	-15.8",-,-,"	-2.0",-,-,-,-,0.7,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-2,ELOM(STND),3(RX1/TX1 OSN2500 Lanco 05 to Pichoy),/,/,/,/,/,/,"	-27.0","	-31.0","	-17.5","	-10.0","	-17.5","	-8.0",-,-,/,/,/,/,"	-3.0",4.0,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-2,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-2,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-2,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-2,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-2,ELOM(STND),8(RX6/TX6 OPR 25563 ATN LANCO Plano A),"	-23.3",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-5.9",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-2,ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-2,ELOM(STND),10(RX8/TX8 Reserva Plano A PE-RAN Panguipulli),/,/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,/,/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-4,ELOM(STND),1(IN1/OUT1A MR8 A4D4 HACIA PICHOY),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-4,ELOM(STND),3(RX1/TX1CLIENTE CABLE PACIFICO OTT 72002777491),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-6,F1OBU,1(IN),/,/,/,/,/,/,/,-,-,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-6,F1OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-8,SCC,1(RM1/TM1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03,Shelf0()-8,SCC,2(RM2/TM2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-1,ELOM(STND),1(IN1/OUT1 To S5-MR8 A1/D1 (To Lanco)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-1,ELOM(STND),2(IN2/OUT2 To S7-MR8 A1/D1 (To Valvidia)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-1,ELOM(STND),3(RX1/TX1 OSN2500 Pichoy 05 to Valdivia),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-1,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-1,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-1,ELOM(STND),6(RX4/TX4 OPR24829 ATN PICHOY PLANO B),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-1,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-1,ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-1,ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-1,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-2,ELOM(STND),1(IN1/OUT1 To S5-MR8 A2/D2 (To Lanco)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-2,ELOM(STND),2(IN2/OUT2 To S7-MR8 A2/D2 (To Valdivia)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-2,ELOM(STND),3(RX1/TX1 OSN2500 Pichoy 05 to Lanco),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-2,ELOM(STND),4(RX2/TX2 ( sin SFP)),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-2,ELOM(STND),5(RX3/TX3 (sin SFP)),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-2,ELOM(STND),6(RX4/TX4 PE-3G Calquinco  Plano A CxC TN Gi 1/8/1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-2,ELOM(STND),7(RX5/TX5 OPR24829 ATN PICHOY Plano A),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-2,ELOM(STND),8(RX6/TX6 (sin SFP)),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-2,ELOM(STND),9(RX7/TX7 Reserva Plano A PE-RAN Calquinco),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-2,ELOM(STND),10(RX8/TX8  (sin SFP)),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-3,ELOM(STND),1(IN1/OUT1 FROM/TO LANCO PCS),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-3,ELOM(STND),2(IN2/OUT2 FROM/TO VALDIVIA),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-3,ELOM(STND),3(RX1/TX1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-3,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-3,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-3,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-3,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-3,ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-3,ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-3,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-4,F1OBU,1(IN1 To Lanco PCS),/,/,/,/,/,/,/,-,-,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-4,F1OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-6,F1OBU,1(IN1 To Valdivia),/,/,/,/,/,/,/,-,-,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-6,F1OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-8,SCC,1(RM1/TM1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PICHOY-WDM-R03,Shelf0()-8,SCC,2(RM2/TM2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),1(IN1/OUT1 FROM/TO PANGUIPULLI),"	-9.7",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.7,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),2(IN2/OUT2 FROM/TO PICHOY PCS),"	-9.5",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.7,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),3(RX1/TX1),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0","	-3.0","	-4.0","	-22.0","	-3.0",-,-,"	-5.2",/,/,/,"	-11.0","	-2.0",-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),4(RX2/TX2),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0","	-3.0","	-4.0","	-22.0","	-3.0",-,-,"	-5.1",/,/,/,"	-11.0","	-2.0",-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),5(RX3/TX3),"	-5.8",/,/,/,/,/,"	-18.0","	-22.0","	-3.0","	-4.0","	-22.0","	-3.0",-,-,"	-5.2",/,/,/,"	-11.0","	-2.0",-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),6(RX4/TX4),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0","	-3.0","	-4.0","	-22.0","	-3.0",-,-,"	-4.9",/,/,/,"	-11.0","	-2.0",-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),8(RX6/TX6),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0","	-3.0","	-4.0","	-22.0","	-3.0",-,-,"	-5.1",/,/,/,"	-11.0","	-2.0",-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),9(RX7/TX7 Cliente Cable Pacifico),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0","	-3.0","	-4.0","	-22.0","	-3.0",-,-,"	-5.2",/,/,/,"	-11.0","	-2.0",-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-1,F2ELOM(STND),10(RX8/TX8),"	-4.8",/,/,/,/,/,"	-18.0","	-22.0","	-3.0","	-4.0","	-22.0","	-3.0",-,-,"	-5.0",/,/,/,"	-11.0","	-2.0",-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-2,F1LDX(STND),1(IN1/OUT1 REGENERACION PE PANGUIPULLI),"	-5.8",/,/,/,-,-,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-2,F1LDX(STND),3(IN3/OUT3 REGENERACION PE PANGUIPULLI),"	-1.5",/,/,/,-,-,"	-16.0",-,-,"	-2.0",-,-,-,-,0.5,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-6,F2OBU,1(IN),"	-60.0",/,/,/,/,/,"	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-60.0",/,/,/,-,-,-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-7,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+LANCOPCS-WDM-R03B,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-1,F2ELOM(STND),1(IN1/OUT1 FROM/TO LANCO PCS),"	-7.9",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.6,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-1,F2ELOM(STND),2(IN2/OUT2),"	-60.0",/,/,/,/,/,"	-16.0",-,-,"	-2.0",-,-,-,-,0.6,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-1,F2ELOM(STND),3(RX1/TX1 Test PA1 PE RAN PANGUIPULLI),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.5",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-1,F2ELOM(STND),4(RX2/TX2 Test PA2 PE RAN PANGUIPULLI),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.4",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-1,F2ELOM(STND),5(RX3/TX3 Test PA3 PE RAN PANGUIPULLI),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.4",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-1,F2ELOM(STND),6(RX4/TX4 Test PA4 PE RAN PANGUIPULLI),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.6",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-1,F2ELOM(STND),7(RX5/TX5 Test PA5 PE RAN PANGUIPULLI),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.6",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-1,F2ELOM(STND),8(RX6/TX6 Test PA6 PE RAN PANGUIPULLI),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.5",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-1,F2ELOM(STND),9(RX7/TX7 Test Cliente Cable Pacifico),"	-60.0",/,/,/,/,/,"	-18.0","	-22.0",0.0,"	-1.0","	-22.0",0.0,-,-,"	-2.5",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-1,F2ELOM(STND),10(RX8/TX8 S1-53 Paguipulli ciudad PCS G0/1/4),"	-5.2",/,/,/,/,/,"	-20.0","	-24.0","	-3.0","	-4.0","	-24.0","	-3.0",-,-,"	-6.5",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-2,F2ELOM(STND),1(IN1/OUT1 A MR8S7 A5/D5 HACIA LANCO PE RAN PANGUIPULLI),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-2,F2ELOM(STND),2(IN2/OUT2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-2,F2ELOM(STND),3(RX1/TX1 PA PE-RAN-8KM14-PANGUIPULLI TGE0/1/0),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-6,F2OBU,1(IN),/,/,/,/,/,/,/,-,-,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-6,F2OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-7,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-8,F3SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+PANGUIPULLI-WDM-R03,Shelf0(subrack)-8,F3SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-1,ELOM(STND),1(IN1/OUT1 To S5-MR8 A1/D1 (To Pichoy)),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-1,ELOM(STND),3(RX1/TX1 OSN2500 Valdivia 05 To Pichoy),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-1,ELOM(STND),4(RX2/TX2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-1,ELOM(STND),5(RX3/TX3),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-1,ELOM(STND),6(RX4/TX4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-1,ELOM(STND),7(RX5/TX5),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-1,ELOM(STND),8(RX6/TX6),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-1,ELOM(STND),9(RX7/TX7),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-1,ELOM(STND),10(RX8/TX8),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-2,ELOM(STND),1(IN1/OUT1 To S5-MR8 A2/D2 (To Pichoy)),"	-8.3",/,/,/,/,/,"	-15.8",-,-,"	-2.0",-,-,-,-,0.7,/,/,/,"	-2.0",3.0,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-2,ELOM(STND),3(RX1/TX1  SERVICIO DESCONOCIDO),/,/,/,/,/,/,"	-27.0","	-31.0","	-17.5","	-10.0","	-17.5","	-8.0",-,-,/,/,/,/,"	-3.0",4.0,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-2,ELOM(STND),4(RX2/TX2 OPR21986 ICALMA-PCS PLANO B (sin SFP)),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-2,ELOM(STND),5(RX3/TX3 PE RAN LONQUIMAY PB),"	-4.9",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-6.2",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-2,ELOM(STND),6(RX4/TX4 PE-3G Calquinco - Plano A CxC ODF 8 Fibras 20-21),"	-7.3",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-6.0",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-2,ELOM(STND),7(RX5/TX5 OPR24829 ATN PICHOY Plano A),"	-7.8",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-5.2",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-2,ELOM(STND),8(RX6/TX6 OPR 25563 ATN LANCO Plano A),"	-4.4",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-5.5",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-2,ELOM(STND),9(RX7/TX7 Reserva Plano A PE-RAN Calquinco),"	-60.0",/,/,/,/,/,"	-20.0","	-24.0","	-11.0","	-4.0","	-11.0","	-2.0",-,-,"	-5.4",/,/,/,"	-10.0","	-2.0",-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-2,ELOM(STND),10(RX8/TX8 Reserva Plano A PE-RAN Panguipulli),"	-60.0",/,/,/,/,/,"	-22.0","	-26.0","	-12.0","	-4.0","	-12.0","	-2.0",-,-,"	-2.0",/,/,/,"	-6.0",1.0,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-3,ELOM(STND),1(IN1/OUT1 FROM/TO PICHOY PCS),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-3,ELOM(STND),3(RX1/TX1 PA1 PE RAN PANGUIPULLI),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-3,ELOM(STND),4(RX2/TX2 PA2 PE RAN PANGUIPULLI),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-3,ELOM(STND),5(RX3/TX3 PA3  PE RAN PANGUIPILLI),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-3,ELOM(STND),6(RX4/TX4 PA4 PE RAN PANGUIPULLI),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-3,ELOM(STND),7(RX5/TX5 PA5 PE RAN PANGUIPULLI),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-3,ELOM(STND),8(RX6/TX6 PA6 PE RAN PANGUIPULLI),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-3,ELOM(STND),9(RX7/TX7 PA7 PE RAN PANGUIPULLI),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-3,ELOM(STND),10(RX8/TX8 S1-9306-valdivia G1/0/1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-4,F1LDX,1(IN1/OUT1 A MR8 A4D4 HACIA PICHOY),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-4,F1LDX,3(IN3/OUT3 A MR8 A5D5 HACIA PICHOY),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-4,F1LDX,5(RX1/TX1 CABLE PACIFICO OTT 72002777491),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-4,F1LDX,6(RX2/TX2 10G PA PERAN PANGUIPULLI - PE1 CORE VALDIVIA  TE 0/1/4),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-6,F1OBU,1(IN),/,/,/,/,/,/,/,-,-,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-6,F1OBU,2(OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-8,SCC,1(RM1/TM1),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+VALDIVIA-WDM-R03,Shelf0()-8,SCC,2(RM2/TM2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-3,B1DAP,1(IN_1),"	-22.6",/,/,/,/,/,"	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-3,B1DAP,2(PAOUT_1),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-7.3",/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-3,B1DAP,3(BAIN_1),"	-20.5",/,/,/,/,/,"	-26.0",-,-,19.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-3,B1DAP,4(OUT_1),-,-,-,-,-,-,-,-,-,-,-,-,-,-,3.8,/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-3,B1DAP,6(VI_1),"	-9.6",/,/,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-3,B1DAP,8(IN_2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-3,B1DAP,9(PAOUT_2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-3,B1DAP,10(BAIN_2),/,/,/,/,/,/,/,-,-,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-3,B1DAP,11(OUT_2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-3,B1DAP,13(VI_2),/,/,/,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-5,B1DAP,1(IN_1),"	-20.1","	-27.0",2022-11-30 12:53:14 DST,Critical Alert,"	-30.0","	-22.0","	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-5,B1DAP,2(PAOUT_1),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-5.4",/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-5,B1DAP,3(BAIN_1),"	-18.0",/,/,/,/,/,"	-26.0",-,-,19.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-5,B1DAP,4(OUT_1),-,-,-,-,-,-,-,-,-,-,-,-,-,-,5.4,/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-5,B1DAP,6(VI_1),"	-10.7","	-21.5",2022-11-30 12:53:14 DST,Critical Alert,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-5,B1DAP,8(IN_2),"	-18.7",/,/,/,/,/,"	-32.0",-,-,"	-2.0",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-5,B1DAP,9(PAOUT_2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,"	-3.8",/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-5,B1DAP,10(BAIN_2),"	-16.2",/,/,/,/,/,"	-26.0",-,-,19.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-5,B1DAP,11(OUT_2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,6.6,/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-5,B1DAP,13(VI_2),"	-10.1",/,/,/,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-6,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-7,B1SCC,1(RM1/TM1),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-7,B1SCC,2(RM2/TM2),/,/,/,/,/,/,/,/,/,/,/,/,-,-,/,/,/,/,/,/,-,-,-,-,-,-
+ANFIONM-WDM-R03B,Shelf0(subrack)-8,F1EMR8,9(IN/OUT),-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,-,-,-,-,-,-,-,-
