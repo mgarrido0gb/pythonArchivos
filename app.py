@@ -30,7 +30,6 @@ for file in os.listdir(route):
         if file.endswith(".csv"):
             result =os.path.join(route, file)
             print(result)
-
 try:
      
     list = []
