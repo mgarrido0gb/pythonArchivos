@@ -25,11 +25,13 @@ unzip(rutas)
 routes = 'C:/Users/mgarr/Downloads/temp/Optical_Power_Management_2022-11-30_17-24-32_DST.csv'
 route = 'C:/Users/mgarr/Downloads/temp/'
 
-
+csvFiles = []
 for file in os.listdir(route):
         if file.endswith(".csv"):
             result =os.path.join(route, file)
-            print(result)
+            csvFiles.append(result)
+print(csvFiles)
+
 try:
      
     list = []
