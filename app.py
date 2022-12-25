@@ -30,7 +30,9 @@ for file in os.listdir(route):
         if file.endswith(".csv"):
             result =os.path.join(route, file)
             csvFiles.append(result)
-print(csvFiles)
+            
+if len(csvFiles)==0:
+    print('ARCHIVOS CSV NO ENCONTRADOS')
 
 try:
     for i in csvFiles:
@@ -40,7 +42,7 @@ try:
             for row in reader:
                 list.append(row)
 
-    #rescato texto fila A columna 4
+        #rescato texto fila A columna 4
         date = list[3]
         #convierto a String 
         dateToString = "".join(date)
