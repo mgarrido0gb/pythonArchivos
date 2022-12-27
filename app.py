@@ -32,7 +32,7 @@ for file in os.listdir(route):
             csvFiles.append(result)
             
 if len(csvFiles)==0:
-    print('ARCHIVOS CSV NO ENCONTRADOS')
+    print('Archivo CSV No encontrados')
 
 try:
     for i in csvFiles:
